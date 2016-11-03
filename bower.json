@@ -1,0 +1,6 @@
+{
+  "name": "Loft",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
